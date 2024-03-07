@@ -24,7 +24,7 @@ The project will involve conducting human-model interactions to study and compar
 ## Research Plan and Timeline
 
 - March 11 - March 18: Familiarize with the existing annotation software and active learning framework. Understand the current acquisition functions and the U-Net backbone.
-- March 18 - Apr 1: Implement and integrate new acquisition functions based on prediction uncertainty, consistency, and temporal discrepancy. Conduct human-model interactions to evaluate the effectiveness of different acquisition functions. Also, prepare interim project presentation.
+- March 18 - Apr 1: Implement and integrate new acquisition functions based on prediction uncertainty, consistency, and temporal discrepancy. Conduct human-model interactions to evaluate the effectiveness of different acquisition functions. Subsequently, prepare interim project presentation.
 - Apr 1 - Apr 15: Explore the integration of the Prithvi transformer-based model as a replacement for the U-Net backbone. Investigate techniques like LoRA and visual prompt tuning for efficient model adaptation.
 - Apr 15 - Apr 28: Prepare the project poster, finalize the active learning framework, conduct final experiments, and prepare the project report.
 
